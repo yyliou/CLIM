@@ -20,7 +20,7 @@
 # please acknowledge that these data comes from CWA, TW. 
 
 #------------------------------------#
-# package required
+# Package required
 #------------------------------------#
 
 library("httr")
